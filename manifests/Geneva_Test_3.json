@@ -1,0 +1,90 @@
+{
+  "viewingHint" : "paged",
+  "attribution" : "e-rara, the platform for digitized rare books from Swiss institutions",
+  "service" : [ ],
+  "license" : "https://creativecommons.org/publicdomain/mark/1.0/deed.en",
+  "structures" : [ ],
+  "sequences" : [ {
+    "canvases" : [ {
+      "height" : 1784,
+      "width" : 1122,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047959"
+          },
+          "format" : "image/jpeg",
+          "height" : 1590,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/bes_1/download/webcache/1000/2047959",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047959",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/annotation/2047959",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[1]",
+      "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047959",
+      "@type" : "sc:Canvas"
+    } ],
+    "viewingHint" : "paged",
+    "startCanvas" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047959",
+    "viewingDirection" : "left-to-right",
+    "label" : "Current Page Order",
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/sequence/normal",
+    "@type" : "sc:Sequence"
+  } ],
+  "label" : "Ein hüpsch new Lied, und ware Gschicht, wie frei der Bär den Krieg hat gricht, der zwischen Genff und Saffoy was, ir Bischoff hat gebritlet das [...]",
+  "thumbnail" : {
+    "width" : 304,
+    "height" : 483,
+    "@id" : "https://www.e-rara.ch/bes_1/i3f/v21/2047959/full/304/0/default.jpg",
+    "@type" : "dctypes:Image",
+    "format" : "image/jpeg"
+  },
+  "logo" : {
+    "@id" : "https://www.e-rara.ch/domainresource/static/graphics/connectors/eraraIco.gif",
+    "service" : {
+      "profile" : "http://iiif.io/api/image/2/level2.json",
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "@id" : "http://www.ub.unibe.ch"
+    }
+  },
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "metadata" : [ {
+    "value" : "Ein  hüpsch new Lied, und ware Gschicht, wie frei der Bär den Krieg hat gricht, der zwischen Genff und Saffoy was, ir Bischoff hat gebritlet das [...] / N. Schorr",
+    "label" : "Title"
+  }, {
+    "value" : "Schorr, Nikolaus [-1564]",
+    "label" : "Author, Contributor"
+  }, {
+    "value" : "Getruckt zu Bern : bey Abraham Weerlin, 1618",
+    "label" : "Imprint"
+  }, {
+    "value" : "[8] Bl. ; 15 cm (8°)",
+    "label" : "Description"
+  }, {
+    "value" : "German",
+    "label" : "Language"
+  }, {
+    "value" : "Nehlsen, Q-7352",
+    "label" : "Bibliographical reference"
+  }, {
+    "value" : "UB Bern, MUE Rar alt 768 : 2",
+    "label" : "Providing Institution"
+  }, {
+    "value" : "https://doi.org/10.3931/e-rara-7720",
+    "label" : "DOI"
+  } ],
+  "@id" : "https://akatoms.github.io/Geneva_Test_3/manifests/Geneva_Test_3.json",
+  "@type" : "sc:Manifest",
+  "seeAlso" : {
+    "format" : "application/xml",
+    "@id" : "https://www.e-rara.ch/bes_1/oai?verb=GetRecord&metadataPrefix=mets&identifier=2047957",
+    "label" : "METS"
+  }
+}
