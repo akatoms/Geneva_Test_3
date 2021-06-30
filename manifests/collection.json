@@ -1,0 +1,13 @@
+{
+  "id" : "https://akatoms.github.io/Geneva_Test_3/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in akatoms/Geneva_Test_3 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://akatoms.github.io/Geneva_Test_3/manifests/Geneva_Test_3.json",
+    "label" : "Ein hüpsch new Lied, und ware Gschicht, wie frei der Bär den Krieg hat gricht, der zwischen Genff und Saffoy was, ir Bischoff hat gebritlet das [...]"
+  } ]
+}
